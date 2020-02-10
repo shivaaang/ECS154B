@@ -15,7 +15,7 @@ Date,Class Type,Topic Covered,Reading,Milestones
 1/29/2020,Lecture,Pipelining hazards,P&H 4.7-4.8,Lab 2 Due
 1/30/2020,Discussion,Pipeining design details (Lab 3),,
 1/31/2020,Lecture,More pipelining,P&H 4.9,
-2/3/2020,Lecture,Instruction-level parallelism,P&H 4.1,
+2/3/2020,Lecture,Instruction-level parallelism,P&H 4.10,
 2/5/2020,Lecture,Speculation and out of order,P&H 4.10-4.12,Lab 3.1 Due
 2/6/2020,Discussion,More Pipeline design details (Lab 3),,
 2/7/2020,Lecture,More speculation and out of order,,
